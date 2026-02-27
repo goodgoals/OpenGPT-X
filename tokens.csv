@@ -1,0 +1,17 @@
+token_id,token_string,token_type
+0,<BOS>,control
+1,<EOS>,control
+2,jake,word
+3,car,word
+4,engine,word
+5,road,word
+6,start,word
+7,drive,word
+8,move,word
+9,.,punct
+10,",",punct
+11,!,punct
+12,vroom,misc
+13,wire,misc
+14,motor,misc
+15,open,word
